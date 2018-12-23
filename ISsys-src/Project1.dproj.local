@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="log.pas"/>
+    <File Path="log.dfm"/>
+    <File Path="mainwin.pas"/>
+    <File Path="mainwin.dfm"/>
+    <File Path="reg.pas"/>
+    <File Path="reg.dfm"/>
+    <File Path="teawork.pas"/>
+    <File Path="teawork.dfm"/>
+    <File Path="tealog.pas"/>
+    <File Path="tealog.dfm"/>
+    <File Path="common.pas"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>2018/12/11 20:31:52.307.pas,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\Unit2.pas=C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\teawork.pas</Transaction>
+    <Transaction>2018/12/11 20:31:52.307.dfm,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\Unit2.dfm=C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\teawork.dfm</Transaction>
+    <Transaction>2018/12/11 22:06:32.071.pas,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\tealog.pas=</Transaction>
+    <Transaction>2018/12/11 22:06:32.071.dfm,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\tealog.dfm=</Transaction>
+    <Transaction>2018/12/11 22:20:31.727.pas,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\Unit1.pas=C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\tealog.pas</Transaction>
+    <Transaction>2018/12/11 22:20:31.727.dfm,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\Unit1.dfm=C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\tealog.dfm</Transaction>
+    <Transaction>2018/12/18 20:16:44.153.pas,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\Unit1.pas=C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\common.pas</Transaction>
+    <Transaction>2018/12/18 20:17:05.783.pas,C:\Users\JX_Zhang\Desktop\本学期\数据库\assignment\ass3\ISsys\common.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
